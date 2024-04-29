@@ -115,6 +115,9 @@ Client-server chat applications are foundational to real-time communication over
 ## PROGRAM :
 ### CLIENT :
 ```
+Developed by : NITHYA D
+Reg no : 212223240110
+
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -133,6 +136,9 @@ break
 ```
 ### SERVER :
 ```
+Developed by : NITHYA D
+Reg no : 212223240110
+
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
@@ -142,7 +148,7 @@ while True:
 ```
 
 ## OUTPUT :
-![image](https://github.com/NithyaDayalan/ChatStudy/assets/166380061/644119e8-63f7-4bb0-a962-d50476ed9bf3)
+![image](https://github.com/NithyaDayalan/ChatStudy/assets/166380061/15b68908-b055-4c93-9c2b-5e7ce70d4261)
 
 ## RESULT :
 Thus the study on Client Server Chat Applications has been performed.
